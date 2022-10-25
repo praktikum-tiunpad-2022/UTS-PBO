@@ -7,7 +7,7 @@ class: text-center
 
 ## Link Pengumpulan UTS :
 
-**Kelas A** : https://classroom.github.com/a/t9J2BHTw
+**Kelas A** : https://classroom.github.com/a/gFWk54MA
 
 **Kelas B** : https://classroom.github.com/a/8jAHn1eV
 
