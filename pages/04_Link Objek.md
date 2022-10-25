@@ -7,7 +7,7 @@ class: text-center
 
 ## Link Objek :
 
-**Kelas A** : TBD
+**Kelas A** : https://s.id/1mbbZ
 
 **Kelas B** : TBD
 
