@@ -9,5 +9,5 @@ class: text-center
 
 **Kelas A** : https://classroom.github.com/a/t9J2BHTw
 
-**Kelas B** : TBD
+**Kelas B** : https://classroom.github.com/a/8jAHn1eV
 
