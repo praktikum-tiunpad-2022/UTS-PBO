@@ -9,5 +9,4 @@ class: text-center
 
 **Kelas A** : https://s.id/1mbbZ
 
-**Kelas B** : TBD
-
+**Kelas B** : https://s.id/1mz5H
